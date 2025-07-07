@@ -5,7 +5,8 @@
 ![Схема](img/Img1.jpg)
 # Готовое устройство, проект реализован полностью.
 <div style="display: flex; justify-content: center;">
-    <img src="img/img2.jpg" alt="Устройство1" width="50%" style="margin-right: 5%;">
-    <img src="img/img4.jpg" alt="Устройство1" width="50%">
+    <img src="img/img2.jpg" alt="Устройство1" width="30%" style="margin-right: 5%;">
+    <img src="img/img4.jpg" alt="Устройство1" width="30%">
 </div>
+
 ![Схема](img/img5.jpg)
